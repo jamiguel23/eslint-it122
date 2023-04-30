@@ -1,4 +1,4 @@
-var x = "BC Ko";
+let x = "BC Ko";
 
 x = 0;
 

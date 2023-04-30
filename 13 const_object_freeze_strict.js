@@ -1,4 +1,3 @@
-'use strict';
 
 const x = {
     genie: "Jindo dog" 

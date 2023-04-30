@@ -1,2 +1,2 @@
-let a = 'BC Ko';
+const a = 'BC Ko';
 console.log(a);
