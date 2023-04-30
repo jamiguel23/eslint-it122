@@ -1,4 +1,4 @@
-const x = 'Genie';
+let x = 'Genie';
 console.log(x);
 
 x = 'BC Ko';
