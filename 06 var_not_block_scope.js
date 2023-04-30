@@ -1,4 +1,4 @@
 {
-    var x = 'BC Ko';
+    const x = 'BC Ko';
+    console.log(x);
 }
-console.log(x);
